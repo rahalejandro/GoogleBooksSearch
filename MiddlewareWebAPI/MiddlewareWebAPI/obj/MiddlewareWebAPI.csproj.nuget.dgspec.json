@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI\\MiddlewareWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\MiddlewareWebAPI.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\MiddlewareWebAPI.App.csproj",
+        "projectName": "MiddlewareWebAPI.App",
+        "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\MiddlewareWebAPI.App.csproj",
+        "packagesPath": "C:\\Users\\acn081419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acn081419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj",
+        "projectName": "MiddlewareWebAPI.Model",
+        "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\acn081419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acn081419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\MiddlewareWebAPI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\MiddlewareWebAPI.Service.csproj",
+        "projectName": "MiddlewareWebAPI.Service",
+        "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\MiddlewareWebAPI.Service.csproj",
+        "packagesPath": "C:\\Users\\acn081419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acn081419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Google.Apis.Books.v1": {
+              "target": "Package",
+              "version": "[1.40.3.1441, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI\\MiddlewareWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI\\MiddlewareWebAPI.csproj",
+        "projectName": "MiddlewareWebAPI",
+        "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI\\MiddlewareWebAPI.csproj",
+        "packagesPath": "C:\\Users\\acn081419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acn081419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\MiddlewareWebAPI.App.csproj": {
+                "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.App\\MiddlewareWebAPI.App.csproj"
+              },
+              "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Model\\MiddlewareWebAPI.Model.csproj"
+              },
+              "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\MiddlewareWebAPI.Service.csproj": {
+                "projectPath": "C:\\Users\\acn081419\\Desktop\\MiddlewareWebAPI\\MiddlewareWebAPI.Service\\MiddlewareWebAPI.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

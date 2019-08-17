@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Books.v1" Version="1.40.3.1441" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiddlewareWebAPI.Model\MiddlewareWebAPI.Model.csproj" />
+  </ItemGroup>
+
+</Project>

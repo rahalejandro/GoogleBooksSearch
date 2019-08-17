@@ -1,0 +1,18 @@
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.deps.json
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.dll
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.csprojAssemblyReference.cache
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.csproj.CoreCompileInputs.cache
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.AssemblyInfoInputs.cache
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.AssemblyInfo.cs
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.pdb
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.dll
+C:\Users\acn081419\Documents\Visual Studio 2019\Projects\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.pdb
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.deps.json
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.dll
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\bin\Debug\netcoreapp2.1\MiddlewareWebAPI.App.pdb
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.csprojAssemblyReference.cache
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.csproj.CoreCompileInputs.cache
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.AssemblyInfoInputs.cache
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.AssemblyInfo.cs
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.dll
+C:\Users\acn081419\Desktop\MiddlewareWebAPI\MiddlewareWebAPI.App\obj\Debug\netcoreapp2.1\MiddlewareWebAPI.App.pdb
