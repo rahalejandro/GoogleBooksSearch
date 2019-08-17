@@ -1,0 +1,23 @@
+<div class="container-fluid my-5">
+    <div class="card-columns">
+        <div *ngFor="let book of books" class="card border-primary">
+            <div *ngIf="book.thumbnail">
+                <div class="text-center my-2">
+                    <img src="{{ book.thumbnail }}" alt="" class="card-img-top img-card-size">
+                </div>
+            </div>
+            <div *ngIf="!book.thumbnail">
+                <div class="text-center my-2">
+                    <img src="../../assets/images/no-image-icon.png" alt="" class="card-img-top img-none-size">
+                </div>
+            </div>
+            <div class="card-body">
+                <h5 class="card-title font-weight-bold">{{ book.title }}</h5>
+                <p class="card-text">By: {{ book.authors }}</p>
+                <div class="text-center">
+                    <button (click)="openDetails(book.infoLink)" class="btn btn-warning btn-size">Details</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

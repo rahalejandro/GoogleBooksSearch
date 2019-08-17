@@ -1,0 +1,32 @@
+<div class="container-fluid my-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text"><i class="fas fa-search"></i></div>
+                </div>
+                <input type="text" [(ngModel)]="bookSearch" class="form-control form-control-lg" 
+                       id="bookSearch" name="bookSearch" placeholder="SEARCH BOOK TITLE"
+                       [ngClass]="{'is-invalid': isBlank }">
+            </div>
+            <span *ngIf="isBlank">
+                <div class="alert alert-danger font-weight-bold">
+                    Please enter a book title...
+                </div>
+            </span>
+        </div>
+        <div class="col-md-6 offset-md-3">
+            <br />
+            <div class="text-center">
+                <button class="btn btn-primary btn-lg btn-size" (click)="searchBooks(bookSearch)">Search</button>&nbsp;
+                <button class="btn btn-danger btn-lg btn-size" (click)="clearResult()">Clear</button>
+            </div>
+            <br />
+            <div *ngIf="errorMessage" class="alert alert-dismissible alert-warning font-weight-bold">
+                <button type="button" class="close" data-dismiss="alert" (click)="clearError()">&times;</button> 
+                {{ errorMessage }}
+            </div>
+        </div>
+    </div>
+</div>
+<book-list [books]=Books></book-list>
